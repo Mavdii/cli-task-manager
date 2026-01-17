@@ -1,0 +1,12 @@
+# CLI Task Manager Dependencies
+# Made by Umar (17 years old from Egypt) 🇪🇬
+# Core dependencies for the task manager
+
+colorama>=0.4.4
+python-dateutil>=2.8.2
+
+# Note: argparse and sqlite3 are built into Python 3.x
+# so no need to install them separately
+
+# Optional: for better date parsing
+# dateparser>=1.1.0  # uncomment if you want even more natural language date support

@@ -1,0 +1,17 @@
+# Sample .taskrc configuration file
+# Copy this to your home directory (~/.taskrc) to customize defaults
+# Made by Umar - 17 years old from Egypt 🇪🇬
+
+[DEFAULT]
+# Default priority for new tasks (high/medium/low)
+default_priority = medium
+
+# Default category for new tasks
+default_category = personal
+
+# Reminder check interval in seconds (60 = 1 minute)
+reminder_interval = 60
+
+# TODO: أضيف email notifications لو فضيت
+# email_notifications = false
+# email_address = your@email.com
