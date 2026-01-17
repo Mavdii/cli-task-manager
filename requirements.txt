@@ -1,5 +1,5 @@
 # CLI Task Manager Dependencies
-# Made by Umar (17 years old from Egypt) 🇪🇬
+# Made by Umar
 # Core dependencies for the task manager
 
 colorama>=0.4.4
@@ -9,4 +9,4 @@ python-dateutil>=2.8.2
 # so no need to install them separately
 
 # Optional: for better date parsing
-# dateparser>=1.1.0  # uncomment if you want even more natural language date support
+# dateparser>=1.1.0  # uncomment if you want even more natural language date support 
